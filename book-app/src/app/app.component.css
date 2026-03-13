@@ -12,7 +12,7 @@
 =========================== */
 .app-container {
   min-height: 100vh;
-  background: #eef2f7;
+  background: rgba(238, 242, 247, 0.3);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
